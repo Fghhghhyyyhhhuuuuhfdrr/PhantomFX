@@ -1,0 +1,21 @@
+# Core Telegram library (active Pyrogram fork, maintained as of 2025)
+pyrofork>=2.3.0
+
+# High-performance crypto for Pyrogram/Pyrofork (C extension)
+TgCrypto>=1.2.5
+
+# Async MongoDB driver
+motor>=3.3.2
+pymongo>=4.6.1
+
+# Web server for streaming
+aiohttp>=3.9.3
+
+# IMDb metadata
+cinemagoer>=2023.5.1
+
+# Utilities
+python-dotenv>=1.0.1
+
+# Optional: faster JSON (auto-used by aiohttp if installed)
+ujson>=5.9.0
